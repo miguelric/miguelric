@@ -40,6 +40,6 @@ src="https://img.shields.io/github/followers/miguelric?logo=github&style=for-the
 
 <div width="100%" align="center"><a href="https://github.com/miguelric/Kmeans-SCH-Clustering" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miguelric&repo=Kmeans-SCH-Clustering&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/miguelric/RequestsLog" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miguelric&repo=RequestsLog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/miguelric/TX-Institution-FTE-SCH" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miguelric&repo=TX-Institution-FTE-SCH&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/miguelric/UTSA-Presidents-Models" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=miguelric&repo=UTSA-Presidents-Models&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
